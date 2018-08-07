@@ -3,12 +3,13 @@
 - master分支： 使用淘宝的 `flexible` 进行移动端适配
 - vm 分支： 使用vm 进行移动端适配方案
 
+### 阿里可伸缩布局方案 `lib-flexible`
+
 - flexible 示例 </br>
 <img src="./static/flex-6.png" width = 300>
 <img src="./static/flex-s5.png" width = 200>
 <img src="./static/flex-5.png" width = 200>
 
-#### 阿里可伸缩布局方案 `lib-flexible`
 1. 使用 `vue-cli` 初始化一个项目
 
 2. 安装 `lib-flexible` 和 `px2rem-loader`
