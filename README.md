@@ -3,6 +3,12 @@
 - master分支： 使用淘宝的 `flexible` 进行移动端适配
 - vm 分支： 使用vm 进行移动端适配方案
 
+- 效果 </br>
+
+<img src="./static/vw-6.png" width=300>
+<img src="./static/vw-5.png" width=200>
+<img src="./static/vw-s5.png" width=200>
+
 ### 使用 vw 适配方案
 
 [参考文章： 大漠老师对 vw 布局的讲解](https://www.w3cplus.com/mobile/vw-layout-in-vue.html)
