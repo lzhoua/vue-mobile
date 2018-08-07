@@ -96,5 +96,3 @@ import 'lib-flexible/flexible'
     font-size: 42px;
 }
 ```
-
-### vw 适配方案
