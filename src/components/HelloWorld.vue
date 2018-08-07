@@ -1,6 +1,7 @@
 <template>
   <div class='box'>
     <div class="header">12312312</div>
+    <div class="block"></div>
   </div>
 </template>
 
@@ -25,5 +26,10 @@ export default {
   height: 100px;
   font-size: 30px; /*px*/
   background-color: red;
+}
+.block {
+  width: 300px;
+  height: 300px;
+  border: thin solid red;
 }
 </style>
