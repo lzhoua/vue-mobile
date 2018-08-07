@@ -5,8 +5,8 @@
 
 - flexible 示例 </br>
 <img src="./static/flex-6.png" width = 300>
-<img src="./static/flex-s5.png" width = 160>
-<img src="./static/flex-5.png" width = 160>
+<img src="./static/flex-s5.png" width = 100>
+<img src="./static/flex-5.png" width = 100>
 
 #### 阿里可伸缩布局方案 `lib-flexible`
 1. 使用 `vue-cli` 初始化一个项目
