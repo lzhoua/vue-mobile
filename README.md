@@ -5,7 +5,9 @@
 
 ### 使用 vw 适配方案
 
-[参考文章： 大漠老师对 vw 布局的讲解](https://www.w3cplus.com/mobile/vw-layout-in-vue.html)
+参考文章：</br>
+[如何在Vue项目中使用vw实现移动端适配](https://www.w3cplus.com/mobile/vw-layout-in-vue.html)</br>
+[再聊移动端页面的适配](https://www.w3cplus.com/css/vw-for-layout.html)
 
  vw效果 </br>
 
