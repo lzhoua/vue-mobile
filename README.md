@@ -114,7 +114,7 @@ import 'lib-flexible/flexible'
 ```
   
 
-### 使用 vw 适配方案
+### 使用 vw 适配方案
 
 [参考文章： 大漠老师对 vw 布局的讲解](https://www.w3cplus.com/mobile/vw-layout-in-vue.html)
 
@@ -140,7 +140,7 @@ module.exports = {
 npm i postcss-aspect-ratio-mini postcss-px-to-viewport postcss-write-svg postcss-cssnext postcss-viewport-units cssnano --save
 ```
 
-3. 在 `.postcssrc.js`文件中对新安装的 `PostCSS` 插件进行配置：
+3. 在 `.postcssrc.js`文件中对新安装的 `PostCSS` 插件进行配置：
 ```javascript
 module.exports = {
   "plugins": {
